@@ -10,4 +10,3 @@ birthday_kids = {
       puts "Happy Birthday #{kids_name}! You are now #{age} years old!"
     end
   end
-
